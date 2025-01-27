@@ -6,7 +6,11 @@ export default {
     "./node_modules/flowbite/**/*.js",
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily:{
+        'sans': ['CustomFont'],
+      }
+    },
   },
   plugins: [
     require('flowbite/plugin')

@@ -2,8 +2,8 @@ import React from 'react'
 
 export default function Finaly() {
   return (
-    <div>
+    <section className='container mx-auto'>
       
-    </div>
+    </section>
   )
 }

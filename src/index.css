@@ -1,3 +1,23 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+    font-family: 'CustomFont';
+    src: url('./Fonts/verdana.ttf') format('ttf'),
+         url('./Fonts/verdana.ttf') format('ttf');
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'CustomFont';
+    src: url('./Fonts/verdana.ttf') format('ttf'),
+         url('./Fonts/verdana.ttf') format('ttf');
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  body {
+    @apply font-sans; /* Apply globally to the entire application */
+  }
