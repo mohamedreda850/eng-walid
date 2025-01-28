@@ -4,7 +4,7 @@ import Navbar from '../Navbar/Navbar'
 
 export default function Layout() {
   return (
-    <div className='bg-[#FDF9E9]'>
+    <div className='bg-[#f2f2f2]'>
       <Navbar />
       
       <Outlet />

@@ -17,6 +17,7 @@ import AshrafRefaat from "./../../../assets/Images/AshrafRefaat.jpg"
 import DalaiOmar from "./../../../assets/Images/DaliaOmar.jpg"
 import AimanAboBakr from "./../../../assets/Images/ahmedAlshawr.jpg"
 import { useState } from "react"
+import { FaLongArrowAltLeft } from "react-icons/fa"
 
 
 export default function ClientFeadBack() {
@@ -420,10 +421,14 @@ Business model
     };
     const itemsToShow = showAll ? data : data.slice(0, initialVisibleCount);
     return (
-        <section className='container mx-auto py-7 px-6'>
-            <div className="flex flex-col items-center">
+        <section className='container mx-auto py-7 px-6 border-t-2'>
+             <div className="flex items-center mb-6 bg-[#B8DFF4] w-fit text-xl lg:text-5xl py-3 px-6 rounded-md mx-10" >
+                  <FaLongArrowAltLeft />
+                    <h1> فيدباك العملاء</h1>
+                  </div>
+            <div className="flex flex-col items-center mb-10">
             <h1 className='text-center text-4xl bg-[#0380C0] w-[25%] py-2  text-white rounded-md mb-8'>VEDIOS</h1>
-            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 ">
+            <div className="grid grid-cols-1 sm:grid-cols-2  lg:grid-cols-3 xl:grid-cols-4 gap-6 ">
                 {vedioData.map((vedio , idx)=>(
                     <div className="bg-white rounded-md shadow-md hover:shadow-sm hover:scale-105 transition-all duration-300 " key={idx}>
                         {vedio.ved}
@@ -449,7 +454,7 @@ Business model
                 
                 
                 {data.length > initialVisibleCount && (
-                        <button className='bg-[#FFCC00] px-4 py-2 rounded-md text-2xl mt-8' onClick={toggleShowAll} >{showAll ? "شاهد اقل" : "شاهد المزيد"}</button>
+                        <button className='bg-[#FFCC00] text-white px-4 py-2 rounded-full text-2xl mt-8' onClick={toggleShowAll} >{showAll ? "شاهد اقل" : "شاهد المزيد"}</button>
                     )}
             </div>
         </section>

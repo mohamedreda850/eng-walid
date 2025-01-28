@@ -55,7 +55,7 @@ export default function CourseContent() {
                 <h3 className="text-3xl my-4">
                 وبعدها ممكن تحجز معاه استشاره مجانيه مدتها 15 دقيقه من هنا علشان تتأكد اذا كان الكورس مناسب ليك وهيحل مشكلتك  حقيقي ولا لا . 
                 </h3>
-                <button className="w-3/4 bg-[#FFCC01] text-3xl py-5 rounded-full duration-200 hover:bg-[#eaca4a] my-6">احجز استشاره مجانيه دلوقتي من هنا</button>
+                <button className="w-fit bg-[#FFCC01] text-3xl py-5 px-8 rounded-full duration-200 hover:bg-[#eaca4a] my-6">احجز استشاره مجانيه دلوقتي من هنا</button>
             </div>
         </section>
     )
