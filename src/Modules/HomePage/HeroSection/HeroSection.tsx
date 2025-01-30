@@ -2,9 +2,9 @@ import egg from "./../../../assets/Images/egg.png"
 import eng from "./../../../assets/Images/eng-walid.svg"
 export default function HeroSection() {
   return (
-    <section id="hero" className="bg-gradient-to-r from-[#997A00] to-[#FFCC00]  pb-10 lg:pb-0 flex flex-col-reverse lg:flex-row justify-between items-center">
+    <section id="hero" className="bg-gradient-to-r from-[#997A00] to-[#FFCC00]   pb-10 lg:pb-0 flex flex-col-reverse lg:flex-row justify-between items-center">
 
-      <div className="flex flex-col w-full lg:w-[50%] h-full  justify-center items-center">
+      <div className="flex flex-col w-full lg:w-[50%] h-full py-10 justify-center items-center">
         <h1 className="text-8xl font-extrabold text-white text-center mb-7">دوره المبيعات</h1>
         <h2 className="text-4xl font-bold text-white text-center mb-5"> كن خبيراً في توليد مبيعات <br/> عالية الجودة</h2>
         <strong className="text-center text-[#006EB6] text-4xl font-bold mt-10">خلال 16 ساعه فقط
