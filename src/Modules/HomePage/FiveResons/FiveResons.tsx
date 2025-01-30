@@ -10,14 +10,14 @@ export default function FiveResons() {
    
       
     return (
-        <section className="py-7 container mx-auto border-t-2">
+        <section className="py-7 container mx-auto border-t-2 px-5">
             <div className="flex items-center mb-6">
-                <img src={hand} alt="" />
-                <h1 className="text-4xl ms-5 bg-[#B8DFF4] py-2 px-6 rounded-md ">5 أسباب بيقولولك ليه حياتك كامله ممكن تتغير بعد كورس المبيعات ب6 شهور </h1>
+                <img src={hand} alt="" className="hidden md:block"/>
+                <h1 className="text-2xl md:text-4xl md:ms-5 bg-[#B8DFF4] py-2 px-6 rounded-md ">5 أسباب بيقولولك ليه حياتك كامله ممكن تتغير بعد كورس المبيعات ب6 شهور </h1>
             </div>
             <div>
                 {reasons.map((item , idx)=>(
-                    <p key={idx} className="text-3xl my-4">{item.dis}</p>
+                    <p key={idx} className="text-xl md:text-3xl my-4">{item.dis}</p>
                 ))}
             </div>
       

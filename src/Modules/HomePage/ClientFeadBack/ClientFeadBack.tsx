@@ -86,7 +86,7 @@ Business model
 #هندسةالبيزنس`,
             client: ` هبه بدر`,
             postLink: `https://www.facebook.com/story.php?story_fbid=122218809728030263&id=61550907901927&rdid=gczdXmgqRWYIaxQK`,
-            img:hebaBadr
+            img: hebaBadr
         },
         {
             post: `ساعات كتيييييييييير لتاني مره علي التوالي مع وليد الحنبلي 🕦
@@ -187,7 +187,7 @@ Business model
 الدبلومة دي مش مجرد كورس، دي تجربة بتغير حياتك حرفيًا. شكرًا ليك يا باشمهندس وليد، على كل حاجة قدمتها وعلى تعبك معانا. 🙏❤️`,
             client: `محمود منير`,
             postLink: `https://www.facebook.com/story.php?story_fbid=1621155812140571&id=100027385038628&rdid=qVXSQPRpvgWIW7cG`,
-        img:mahmoudMonir
+            img: mahmoudMonir
         },
         {
             post: `في حياتنا بنتعلم كتير من خبرات الآخرين وصحبتهم يمكن أكثر من الطرق التقليدية وأسرع من التجربة والخطأ.
@@ -281,7 +281,7 @@ Business model
 في آخر الكورس هتعرف ليه `,
             client: `نهال السيد`,
             postLink: `https://www.facebook.com/story.php?story_fbid=3714496158782909&id=100006676837225&rdid=3IHsz2XSpbcskpui`,
-            img:nehalElsaied
+            img: nehalElsaied
         },
         {
             post: `أن تفكر كقائد وأن تحكم كملك وأن تعمل كعبد😅
@@ -292,8 +292,8 @@ Business model
 شكرا يصديقى على المحتوى الجامد دا وربنا يوفقك ويكرمك فاللي جاي إن شاء الله🫡❤️
  #الباش_ماركتير`,
             client: `احمد همام البيلي`,
-            postLink: `https://www.facebook.com/story.php?story_fbid=340112368669874&id=100080133402099&rdid=xqAlTsvRxL0EcFkp`, 
-            img:AhmedHmam
+            postLink: `https://www.facebook.com/story.php?story_fbid=340112368669874&id=100080133402099&rdid=xqAlTsvRxL0EcFkp`,
+            img: AhmedHmam
         },
         {
             post: `نباركله ؟! 
@@ -307,7 +307,7 @@ Business model
 رحبوا بمحمد، واتمنوله التوفيق،وقولوله ألف مبروك ^^ `,
             client: `محمد حبيب`,
             postLink: `https://www.facebook.com/story.php?story_fbid=1774128402921989&id=100009745392768&rdid=v0lCfHL74OqThbza`,
-            img:mohamedHabib
+            img: mohamedHabib
         },
         {
             post: `رحله بدأناها من ٥ شهور 
@@ -324,7 +324,7 @@ Business model
 حقيقي شكرا علي الفتره دي وانك مكنتش بتسيبنا وبتحاول تطور من نفسك عشان تفيدنا اكتر وتدينا معلومات احسن وتطورنا وحقيقي انا اتطورت جامد في الفتره الي فاتت دي سواء علي المستوي الشخصي أو المهني `,
             client: `حسان صفي الدين`,
             postLink: `https://www.facebook.com/story.php?story_fbid=6765287846911789&id=100002919225676&rdid=ddIh5ubOihF6TJud`,
-            img:hossam
+            img: hossam
         },
         {
             post: `"ليس السلاح ولكنه الساعد يا أمير المؤمنين"
@@ -340,7 +340,7 @@ Business model
 `,
             client: `محمد العربي`,
             postLink: `https://www.facebook.com/story.php?story_fbid=2463138480504268&id=100004244191465&rdid=mhLrcFoHyMX1Bui2`,
-            img:mohamedAlAraby
+            img: mohamedAlAraby
         },
         {
             post: `جيت أعد الكورسات اللي أخدتها في التسويق والبزنس لقيتهم أكتر من 20 مابين الأوف لاين والأون لاين  منهم الساعتين ومنهم ال60 ساعة
@@ -351,21 +351,21 @@ Business model
 ربنا يبارك في مجهودك وعمرك وعلمك يا صديقي ومدربي الغالي⁦❤️`,
             client: `اشرف رفعت`,
             postLink: `https://www.facebook.com/story.php?story_fbid=5251987838233715&id=100002676522211&rdid=UfkWFyYNEmwfRjte`,
-            img:AshrafRefaat
+            img: AshrafRefaat
         },
         {
-            post:`علم وعمل .
+            post: `علم وعمل .
 عندما يركز الإنسان على العمل فإنه يتحول الى ألة. 
 وعندما يركز على العلم دون عمل فإنه يتحول الى مسجل يعيد ويزيد بوعى وبدون وعى .
 وعندما يجتمع العلم مع العمل فإن الإنسان يتحول الى قنبله موقوته مستعده لتفجر أقصى طاقتها من أجل تحقيق أهدافها .
 وهذا مايحدث عندما تتعلم مع الباشمهندس وليد ،💫.
 تحياتى .`,
-            client:`داليا عمر`,
-            postLink:`https://www.facebook.com/story.php?story_fbid=835723070752679&id=100029449821969&rdid=RUC1V3kMjJLUdWPy`,
-            img:DalaiOmar
+            client: `داليا عمر`,
+            postLink: `https://www.facebook.com/story.php?story_fbid=835723070752679&id=100029449821969&rdid=RUC1V3kMjJLUdWPy`,
+            img: DalaiOmar
         },
         {
-            post:`وليد الحنبلي .. المستشار المؤتمن 
+            post: `وليد الحنبلي .. المستشار المؤتمن 
 يقولك الاستشارة ٣ ساعات بالكتير .. ماتصدقوش هيقعد معاك بالست ساعات 😅
 بس هو اللي خسران !
 انت بتستفيد من تجاربه وقراءته الواسعه ما شاء الله في الإدارة والبيزنس وعلم النفس .. وهو بس قاعد معاك لحد ما انت اللي تقوله كفاية دماغي لف خلاص 🙃
@@ -374,88 +374,101 @@ Business model
 الاستشارة معاه بتأكدلك إنك محتاج دائما حد معاك سميه بقى ثيرابست ، تسميه لايف كوتش ، تسميه صديق مخلص أو أخ كبير .. اي حاجه المهم محتاج حد يقولك توجه الدفة إزاي ، وكل دا مجهود كبير منه علشان يصحح فكرة غلط اتزرعت بسبب (أفورة) مدربين التنمية البشرية!
 مش اول مرة اقعد معاه واستفيد منه ، ياما ما شاء الله ساعدني كتييير ايام الكلية وبعدها حتى
 ببقى ممتن ومش عارف ارد الجميل إزاي !`,
-            client:`ايمن ابو بكر`,
-            postLink:`https://www.facebook.com/story.php?story_fbid=2307261129608711&id=100009745392768&rdid=SJ74LxrQSJyZgcXU`,
-            img:AimanAboBakr
+            client: `ايمن ابو بكر`,
+            postLink: `https://www.facebook.com/story.php?story_fbid=2307261129608711&id=100009745392768&rdid=SJ74LxrQSJyZgcXU`,
+            img: AimanAboBakr
         },
-       
+
     ]
     const vedioData = [
         {
-            ved:<iframe  src="https://www.youtube.com/embed/Y8JIgOI0xJc" title="alaa mohammed business developer  at e commerce field and former sales manager realstate field" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+            ved: <iframe src="https://www.youtube.com/embed/Y8JIgOI0xJc" title="alaa mohammed business developer  at e commerce field and former sales manager realstate field" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
         },
         {
-            ved:<iframe  src="https://www.youtube.com/embed/y5xT3Zw7F5U" title="Menna elsawy Digital marketing manager  Businessly agency" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+            ved: <iframe src="https://www.youtube.com/embed/y5xT3Zw7F5U" title="Menna elsawy Digital marketing manager  Businessly agency" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
         },
         {
-            ved:<iframe  src="https://www.youtube.com/embed/ceqhdXlxI2w" title="Eng Abdelrhman Alsayad business developer and medical business owner" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+            ved: <iframe src="https://www.youtube.com/embed/ceqhdXlxI2w" title="Eng Abdelrhman Alsayad business developer and medical business owner" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
         },
         {
-            ved:<iframe  src="https://www.youtube.com/embed/lxaQi2jFZp0" title="Reham yoseef digital marketer" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+            ved: <iframe src="https://www.youtube.com/embed/lxaQi2jFZp0" title="Reham yoseef digital marketer" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
         },
         {
-            ved:<iframe  src="https://www.youtube.com/embed/1bAsIsomvPE" title="Eng Mohammed Albanna Media buyer specialist &amp; co founder businessly agency" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+            ved: <iframe src="https://www.youtube.com/embed/1bAsIsomvPE" title="Eng Mohammed Albanna Media buyer specialist &amp; co founder businessly agency" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
         },
         {
-            ved:<iframe  src="https://www.youtube.com/embed/HY0FE4U9u34" title="eng Mohammed Elaraby business developer" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+            ved: <iframe src="https://www.youtube.com/embed/HY0FE4U9u34" title="eng Mohammed Elaraby business developer" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
         },
         {
-            ved:<iframe  src="https://www.youtube.com/embed/cVVnFuzoG4E" title="صافي جمال  مديرة مستريات سلسلة مطاعم المحمدي" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+            ved: <iframe src="https://www.youtube.com/embed/cVVnFuzoG4E" title="صافي جمال  مديرة مستريات سلسلة مطاعم المحمدي" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
         },
         {
-            ved:<iframe  src="https://www.youtube.com/embed/etwTBdJ8OaI" title="hassan safaaeldeen" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+            ved: <iframe src="https://www.youtube.com/embed/etwTBdJ8OaI" title="hassan safaaeldeen" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
         },
         {
-            ved:<iframe  src="https://www.youtube.com/embed/RDv467yjfYM" title="dr ahmad hmam media buyer team leader at azzrak company" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+            ved: <iframe src="https://www.youtube.com/embed/RDv467yjfYM" title="dr ahmad hmam media buyer team leader at azzrak company" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
         },
         {
-            ved:<iframe  src="https://www.youtube.com/embed/etwTBdJ8OaI" title="hassan safaaeldeen" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+            ved: <iframe src="https://www.youtube.com/embed/6GNc7n_6enA" title="Eng Mahmoud Mounir mechatronics engineer and business owner cpo at tekatech" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+        }, {
+            ved: <iframe src="https://www.youtube.com/embed/yz2H9SY1yb4" title="nehal eldaeid Nehal Elsaied media buyer team leader" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+        },
+        {
+            ved: <iframe src="https://www.youtube.com/embed/yQfjW2P7zAA" title="يوسف الحسيني رائد أعمال مقيم بسلطنة عمان" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
         }
     ]
     const [showAll, setShowAll] = useState(false);
+    const [showAllVed, setShowAllVed] = useState(false);
 
 
-        const initialVisibleCount = 4;
+    const initialVisibleCount = 4;
     const toggleShowAll = () => {
         setShowAll(!showAll);
     };
+    const toggleShowAllVed = () => {
+        setShowAllVed(!showAllVed);
+    };
     const itemsToShow = showAll ? data : data.slice(0, initialVisibleCount);
+    const itemsToShowVed = showAllVed ? vedioData : vedioData.slice(0, initialVisibleCount);
     return (
-        <section className='container mx-auto py-7 px-6 border-t-2'>
-             <div className="flex items-center mb-6 bg-[#B8DFF4] w-fit text-xl lg:text-5xl py-3 px-6 rounded-md mx-10" >
-                  <FaLongArrowAltLeft />
-                    <h1> فيدباك العملاء</h1>
-                  </div>
+        <section id="feedback" className='container mx-auto py-7 px-6 border-t-2'>
+            <div className="flex items-center mb-6 bg-[#B8DFF4] w-fit text-xl lg:text-5xl py-3 px-6 rounded-md mx-10" >
+
+                <h1> فيدباك العملاء</h1>
+            </div>
             <div className="flex flex-col items-center mb-10">
-            <h1 className='text-center text-4xl bg-[#0380C0] w-[25%] py-2  text-white rounded-md mb-8'>VEDIOS</h1>
-            <div className="grid grid-cols-1 sm:grid-cols-2  lg:grid-cols-3 xl:grid-cols-4 gap-6 ">
-                {vedioData.map((vedio , idx)=>(
-                    <div className="bg-white rounded-md shadow-md hover:shadow-sm hover:scale-105 transition-all duration-300 " key={idx}>
-                        {vedio.ved}
-                    </div>
-                ))}
-            </div>
-            </div>
-            <div className="flex flex-col items-center">
-                <h1 className='text-center text-4xl bg-[#0380C0] w-[25%] py-2  text-white rounded-md mb-8'>POSTS</h1>
-                <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
-                    {itemsToShow.map((post,idx)=>(
-                        <div className="bg-white rounded-md shadow-md hover:shadow-sm hover:scale-105 transition-all duration-300" key={idx}>
-                            <img src={post.img} className="h-48 w-full rounded-t-md" alt="" />
-                            <div className="p-3">
-                                 <h2 className="text-center font-bold">{post.client}</h2>
-                            <h3 className="inline">{post.post.split(' ').slice(0, 28).join(' ')} </h3>
-                            <a href={post.postLink} className="text-blue-500 underline" target="_blank">شوف باقي البوست</a>
-                            </div>
-                           
+                <h1 className='text-center text-4xl bg-[#0380C0] w-fit px-3 py-2  text-white rounded-md mb-8'>VEDIOS</h1>
+                <div className="grid grid-cols-1 sm:grid-cols-2  lg:grid-cols-3 xl:grid-cols-4 gap-6 ">
+                    {itemsToShowVed.map((vedio, idx) => (
+                        <div className="bg-white rounded-md shadow-md hover:shadow-sm hover:scale-105 transition-all duration-300 " key={idx}>
+                            {vedio.ved}
                         </div>
                     ))}
                 </div>
-                
-                
+                {vedioData.length > initialVisibleCount && (
+                    <button className='bg-[#FFCC00] text-white px-4 py-2 rounded-full text-2xl mt-8' onClick={toggleShowAllVed} >{showAllVed ? "شاهد اقل" : "شاهد المزيد"}</button>
+                )}
+            </div>
+            <div className="flex flex-col items-center">
+                <h1 className='text-center text-4xl bg-[#0380C0] w-fit px-3  py-2  text-white rounded-md mb-8'>POSTS</h1>
+                <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
+                    {itemsToShow.map((post, idx) => (
+                        <div className="bg-white rounded-md shadow-md hover:shadow-sm hover:scale-105 transition-all duration-300" key={idx}>
+                            <img src={post.img} className="h-48 w-full  rounded-t-md" alt="" />
+                            <div className="p-3">
+                                <h2 className="text-center font-bold">{post.client}</h2>
+                                <h3 className="inline">{post.post.split(' ').slice(0, 28).join(' ')} </h3>
+                                <a href={post.postLink} className="text-blue-500 underline" target="_blank">شوف باقي البوست</a>
+                            </div>
+
+                        </div>
+                    ))}
+                </div>
+
+
                 {data.length > initialVisibleCount && (
-                        <button className='bg-[#FFCC00] text-white px-4 py-2 rounded-full text-2xl mt-8' onClick={toggleShowAll} >{showAll ? "شاهد اقل" : "شاهد المزيد"}</button>
-                    )}
+                    <button className='bg-[#FFCC00] text-white px-4 py-2 rounded-full text-2xl mt-8' onClick={toggleShowAll} >{showAll ? "شاهد اقل" : "شاهد المزيد"}</button>
+                )}
             </div>
         </section>
     )

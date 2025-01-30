@@ -1,28 +1,55 @@
 import { FaFacebookF, FaWhatsapp, FaWhatsappSquare } from "react-icons/fa"
 import fb from "./../../../assets/Images/facebook.svg"
 import { FiYoutube } from "react-icons/fi"
+import { useForm } from "react-hook-form"
+import emailjs from 'emailjs-com';
+
 export default function Form() {
+
+    const {register , handleSubmit , reset , formState:{isSubmitting , errors}} = useForm({
+        defaultValues:{
+            name:"",
+            email:"",
+            phone:"",
+            message:""
+        }
+    })
+    const onSubmit = (data) => {
+        const templateData={
+            from_name:data.name,
+            message:data.message,
+            email:data.email,
+            phone:data.phone
+        }
+        emailjs.send("service_6lhdnmj","template_63xnbhp",templateData,"zkFwdMfFSGpyI2UuB").then(()=>{
+            console.log("success");
+            
+        }).catch(()=>{
+            console.log("error");
+            
+        });
+    }
     return (
-        <section className="container mx-auto grid grid-cols-1 lg:grid-cols-2 w-full py-10 border-t-2 px-[1%] gap-6">
-            <div className="w-full p-[2%] bg-white rounded-lg">
-                <form>
+        <section id="form" className="container mx-auto grid grid-cols-1 lg:grid-cols-2 w-full py-10 border-t-2 px-[1%] gap-6 ">
+            <div className="w-full p-[2%] bg-white rounded-lg ">
+                <form onSubmit={handleSubmit(onSubmit)}>
                     <div className="mb-4">
                         <label htmlFor="first_name" className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">الاسم</label>
-                        <input type="text" id="first_name" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 shadow-lg" placeholder="محمد" required />
+                        <input {...register("name" ,{required:"الرجاء ادخال الاسم"})} type="text" id="first_name" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 shadow-lg" placeholder="محمد" required />
                     </div>
                     <div className="mb-4">
                         <label htmlFor="first_name" className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">البريد الالكتروني</label>
-                        <input type="text" id="first_name" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 shadow-lg" placeholder="mohamed@example.com" required />
+                        <input type="email" {...register("email" ,{required:"الرجاء ادخال البريد الالكتروني"})} id="first_name" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 shadow-lg" placeholder="mohamed@example.com" required />
                     </div>
                     <div className="mb-4">
                         <label htmlFor="first_name" className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">رقم الموبايل</label>
-                        <input type="text" id="first_name" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 shadow-lg" placeholder="01123456789" required />
+                        <input type="text" {...register("phone" , {required:"الرجاء ادخال رقم الهاتف"})} id="first_name" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 shadow-lg" placeholder="01123456789" required />
                     </div>
                     <div className="mb-4">
                         <label htmlFor="first_name" className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">الرساله</label>
-                        <textarea  id="first_name" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 shadow-lg"  required ></textarea>
+                        <textarea  id="first_name" {...register("message")} className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 shadow-lg"  required ></textarea>
                     </div>
-                    <button className="bg-[#FFCC00] px-10 py-2 rounded-full text-white ">ارسال</button>
+                    <button type="submit" className="bg-[#FFCC00] px-10 py-2 rounded-full text-white ">ارسال</button>
                 </form>
             </div>
             <div className="w-full p-[2%] bg-white rounded-lg">

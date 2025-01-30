@@ -30,12 +30,12 @@ export default function Titles() {
     {
       num:"٦",
       title:' مستويات البيع الثلاثه.',
-      dis:" المستوى الثالث : ازاي تبيع حاجه عندك لحد أصلا مش عاوزها ؟!!.  المستوى الاول : ازاي تبيع حاجه عندك لحد بيسأل عليها؟ المستوى الثاني : ازاي تبيع حاجه عندك لحد عاوز حاجه شبهها بس مش عاوزها هي ؟ ",
+      dis:"   المستوى الاول : ازاي تبيع حاجه عندك لحد بيسأل عليها؟ المستوى الثاني : ازاي تبيع حاجه عندك لحد عاوز حاجه شبهها بس مش عاوزها هي ؟ المستوى الثالث : ازاي تبيع حاجه عندك لحد أصلا مش عاوزها ؟!!.",
     },
     {
       num:"٧",
       title:'كيف نصمم ميزة تنافسية ونقطة بيع فريدة لشركتنا ؟',
-      dis:"وهنا هتتعلم ازاي تبيع مهما كانت المنافسه شرسه ( بس دي خطوة أصلا قبل البيع )",
+      dis:"وهنا هتتعلم ازاي تبيع مهما كانت المنافسه شرسه (بس دي خطوة أصلا قبل البيع)",
     },
     {
       num:"٨",
@@ -142,9 +142,9 @@ export default function Titles() {
   return (
     <section className="py-7 container mx-auto">
       <div className="flex items-center justify-center mb-6">
-        <button className="text-4xl bg-[#FFCC01] px-10 py-5 rounded-full me-3 hover:bg-[#eaca4a]" >الحق خصم ال early birds لاول <span className=" text-red-600">50 مشترك </span> , ولمده <span className="text-red-600">7 ايام </span> فقط
+        <button className="text-xl font-semibold md:text-4xl bg-[#FFCC01] px-10 py-5 rounded-full m-3 hover:bg-[#eaca4a]" >الحق خصم ال early birds لاول <span className=" text-red-600">50 مشترك </span> , ولمده <span className="text-red-600">7 ايام </span> فقط
       </button>
-      <img src={stop} alt="" />
+      <img src={stop} className="hidden md:block" alt="" />
       </div>
       <hr className="mb-6 mx-[7%] border-black border-2 "/>
       <div className="flex items-center mb-6 bg-[#B8DFF4] w-fit text-xl lg:text-5xl py-3 px-6 rounded-md mx-10" >

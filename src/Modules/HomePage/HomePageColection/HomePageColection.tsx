@@ -18,8 +18,8 @@ export default function HomePageColection() {
       <Finaly />
       <ClientFeadBack />
       <Form />
-      <button className="fixed bottom-4 right-4 w-16 h-16 rounded-full bg-blue-600 text-white text-2xl shadow-lg hover:bg-blue-700 transition-all duration-300 flex items-center justify-center">
-        <FaWhatsapp className="me-4"/>
+      <button className="fixed bottom-4 right-4 w-16 h-16 rounded-full bg-[#F8C600] text-white text-2xl shadow-lg hover:bg-[#D4A900] hover:shadow-lg transition-all duration-300 text-center flex items-center justify-center">
+        <a href=""><FaWhatsapp className="text-4xl"/></a>
     </button>
     </div>
   )
