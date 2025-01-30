@@ -1,5 +1,4 @@
-import { FaFacebookF, FaWhatsapp, FaWhatsappSquare } from "react-icons/fa"
-import fb from "./../../../assets/Images/facebook.svg"
+import { FaFacebookF, FaWhatsapp } from "react-icons/fa"
 import { FiYoutube } from "react-icons/fi"
 import { useForm } from "react-hook-form"
 import emailjs from 'emailjs-com';

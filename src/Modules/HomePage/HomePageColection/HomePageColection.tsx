@@ -4,7 +4,7 @@ import FiveResons from '../FiveResons/FiveResons'
 import Titles from '../Titles/Titles'
 import ClientFeadBack from '../ClientFeadBack/ClientFeadBack'
 import Finaly from '../Finaly/Finaly'
-import Form from '../Form/form'
+import Form from '../Form/Form'
 import { FaWhatsapp } from 'react-icons/fa'
 
 
