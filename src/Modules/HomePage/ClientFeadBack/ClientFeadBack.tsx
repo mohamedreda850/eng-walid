@@ -17,7 +17,6 @@ import AshrafRefaat from "./../../../assets/Images/AshrafRefaat.jpg"
 import DalaiOmar from "./../../../assets/Images/DaliaOmar.jpg"
 import AimanAboBakr from "./../../../assets/Images/ahmedAlshawr.jpg"
 import { useState } from "react"
-import { FaLongArrowAltLeft } from "react-icons/fa"
 
 
 export default function ClientFeadBack() {
