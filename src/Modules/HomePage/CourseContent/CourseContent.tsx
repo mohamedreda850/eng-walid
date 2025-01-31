@@ -48,9 +48,9 @@ export default function CourseContent() {
                 <h3 className="text-xl md:text-3xl my-5">ال 4 حالات دوول حلهم الوحيد انك تتعلم وبجد 27 نقطة فارقه في عالم البيع !</h3>
                 <h3 className="text-xl md:text-3xl  my-5"> تتعلم من حد فعلا حقق ده مش بيقول كلام نظري  ، وتعرفه كويس ، وتسمعله أي حاجه ( مجانيه ) الاول زي انك تدخل  هنا وتعرف منه مثلا ازاي تتعامل مع اعتراض السعر الغالي . </h3>
             </div>
-            {/* <div className="flex justify-center my-10 px-5">
+            <div className="flex justify-center my-10 px-5">
                 <iframe className="w-3/4 " height="550" src="https://www.youtube.com/embed/HLxJwtL4hzU" title="مقدمة كورس مقدمة فى الذكاء الاصطناعي - وليد الحنبلي" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
-            </div> */}
+            </div>
             <div className=" flex flex-col items-center">
                 <h3 className="text-xl md:text-3xl  my-4">
                     وبعدها ممكن تحجز معاه استشاره مجانيه مدتها 15 دقيقه من هنا علشان تتأكد اذا كان الكورس مناسب ليك وهيحل مشكلتك  حقيقي ولا لا .

@@ -18,8 +18,8 @@ export default function HomePageColection() {
       <Finaly />
       <ClientFeadBack />
       <Form />
-      <button className="fixed bottom-4 right-4 w-16 h-16 rounded-full bg-[#F8C600] text-white text-2xl shadow-lg hover:bg-[#D4A900] hover:shadow-lg transition-all duration-300 text-center flex items-center justify-center">
-        <a href=""><FaWhatsapp className="text-4xl"/></a>
+      <button aria-label='whats-app' className="fixed bottom-4 right-4 w-16 h-16 rounded-full bg-[#F8C600] text-white text-2xl shadow-lg hover:bg-[#D4A900] hover:shadow-lg transition-all duration-300 text-center flex items-center justify-center">
+        <a href="" aria-label='got to whats app'><FaWhatsapp className="text-4xl"/></a>
     </button>
     </div>
   )

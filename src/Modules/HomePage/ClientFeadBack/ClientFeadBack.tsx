@@ -379,56 +379,56 @@ Business model
         },
 
     ]
-    // const vedioData = [
-    //     {
-    //         ved: <iframe src="https://www.youtube.com/embed/Y8JIgOI0xJc" title="alaa mohammed business developer  at e commerce field and former sales manager realstate field" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
-    //     },
-    //     {
-    //         ved: <iframe src="https://www.youtube.com/embed/y5xT3Zw7F5U" title="Menna elsawy Digital marketing manager  Businessly agency" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
-    //     },
-    //     {
-    //         ved: <iframe src="https://www.youtube.com/embed/ceqhdXlxI2w" title="Eng Abdelrhman Alsayad business developer and medical business owner" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
-    //     },
-    //     {
-    //         ved: <iframe src="https://www.youtube.com/embed/lxaQi2jFZp0" title="Reham yoseef digital marketer" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
-    //     },
-    //     {
-    //         ved: <iframe src="https://www.youtube.com/embed/1bAsIsomvPE" title="Eng Mohammed Albanna Media buyer specialist &amp; co founder businessly agency" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
-    //     },
-    //     {
-    //         ved: <iframe src="https://www.youtube.com/embed/HY0FE4U9u34" title="eng Mohammed Elaraby business developer" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
-    //     },
-    //     {
-    //         ved: <iframe src="https://www.youtube.com/embed/cVVnFuzoG4E" title="صافي جمال  مديرة مستريات سلسلة مطاعم المحمدي" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
-    //     },
-    //     {
-    //         ved: <iframe src="https://www.youtube.com/embed/etwTBdJ8OaI" title="hassan safaaeldeen" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
-    //     },
-    //     {
-    //         ved: <iframe src="https://www.youtube.com/embed/RDv467yjfYM" title="dr ahmad hmam media buyer team leader at azzrak company" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
-    //     },
-    //     {
-    //         ved: <iframe src="https://www.youtube.com/embed/6GNc7n_6enA" title="Eng Mahmoud Mounir mechatronics engineer and business owner cpo at tekatech" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
-    //     }, {
-    //         ved: <iframe src="https://www.youtube.com/embed/yz2H9SY1yb4" title="nehal eldaeid Nehal Elsaied media buyer team leader" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
-    //     },
-    //     {
-    //         ved: <iframe src="https://www.youtube.com/embed/yQfjW2P7zAA" title="يوسف الحسيني رائد أعمال مقيم بسلطنة عمان" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
-    //     }
-    // ]
+    const vedioData = [
+        {
+            ved: <iframe src="https://www.youtube.com/embed/Y8JIgOI0xJc" title="alaa mohammed business developer  at e commerce field and former sales manager realstate field" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+        },
+        {
+            ved: <iframe src="https://www.youtube.com/embed/y5xT3Zw7F5U" title="Menna elsawy Digital marketing manager  Businessly agency" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+        },
+        {
+            ved: <iframe src="https://www.youtube.com/embed/ceqhdXlxI2w" title="Eng Abdelrhman Alsayad business developer and medical business owner" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+        },
+        {
+            ved: <iframe src="https://www.youtube.com/embed/lxaQi2jFZp0" title="Reham yoseef digital marketer" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+        },
+        {
+            ved: <iframe src="https://www.youtube.com/embed/1bAsIsomvPE" title="Eng Mohammed Albanna Media buyer specialist &amp; co founder businessly agency" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+        },
+        {
+            ved: <iframe src="https://www.youtube.com/embed/HY0FE4U9u34" title="eng Mohammed Elaraby business developer" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+        },
+        {
+            ved: <iframe src="https://www.youtube.com/embed/cVVnFuzoG4E" title="صافي جمال  مديرة مستريات سلسلة مطاعم المحمدي" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+        },
+        {
+            ved: <iframe src="https://www.youtube.com/embed/etwTBdJ8OaI" title="hassan safaaeldeen" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+        },
+        {
+            ved: <iframe src="https://www.youtube.com/embed/RDv467yjfYM" title="dr ahmad hmam media buyer team leader at azzrak company" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+        },
+        {
+            ved: <iframe src="https://www.youtube.com/embed/6GNc7n_6enA" title="Eng Mahmoud Mounir mechatronics engineer and business owner cpo at tekatech" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+        }, {
+            ved: <iframe src="https://www.youtube.com/embed/yz2H9SY1yb4" title="nehal eldaeid Nehal Elsaied media buyer team leader" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+        },
+        {
+            ved: <iframe src="https://www.youtube.com/embed/yQfjW2P7zAA" title="يوسف الحسيني رائد أعمال مقيم بسلطنة عمان" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+        }
+    ]
     const [showAll, setShowAll] = useState(false);
-    // const [showAllVed, setShowAllVed] = useState(false);
+    const [showAllVed, setShowAllVed] = useState(false);
 
 
     const initialVisibleCount = 4;
     const toggleShowAll = () => {
         setShowAll(!showAll);
     };
-    // const toggleShowAllVed = () => {
-    //     setShowAllVed(!showAllVed);
-    // };
+    const toggleShowAllVed = () => {
+        setShowAllVed(!showAllVed);
+    };
     const itemsToShow = showAll ? data : data.slice(0, initialVisibleCount);
-    // const itemsToShowVed = showAllVed ? vedioData : vedioData.slice(0, initialVisibleCount);
+    const itemsToShowVed = showAllVed ? vedioData : vedioData.slice(0, initialVisibleCount);
     return (
         <section id="feedback" className='container mx-auto py-7 px-6 border-t-2'>
             <div className="flex items-center mb-6 bg-[#B8DFF4] w-fit text-xl lg:text-5xl py-3 px-6 rounded-md mx-10" >
@@ -437,16 +437,16 @@ Business model
             </div>
             <div className="flex flex-col items-center mb-10">
                 <h1 className='text-center text-4xl bg-[#0380C0] w-fit px-3 py-2  text-white rounded-md mb-8'>VEDIOS</h1>
-                {/* <div className="grid grid-cols-1 sm:grid-cols-2  lg:grid-cols-3 xl:grid-cols-4 gap-6 ">
+                <div className="grid grid-cols-1 sm:grid-cols-2  lg:grid-cols-3 xl:grid-cols-4 gap-6 ">
                     {itemsToShowVed.map((vedio, idx) => (
                         <div className="bg-white rounded-md shadow-md hover:shadow-sm hover:scale-105 transition-all duration-300 " key={idx}>
                             {vedio.ved}
                         </div>
                     ))}
-                </div> */}
-                {/* {vedioData.length > initialVisibleCount && (
+                </div>
+                {vedioData.length > initialVisibleCount && (
                     <button className='bg-[#FFCC00] text-white px-4 py-2 rounded-full text-2xl mt-8' onClick={toggleShowAllVed} >{showAllVed ? "شاهد اقل" : "شاهد المزيد"}</button>
-                )} */}
+                )}
             </div>
             <div className="flex flex-col items-center">
                 <h1 className='text-center text-4xl bg-[#0380C0] w-fit px-3  py-2  text-white rounded-md mb-8'>POSTS</h1>
