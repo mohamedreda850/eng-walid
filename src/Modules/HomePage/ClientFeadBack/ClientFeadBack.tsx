@@ -380,9 +380,9 @@ Business model
 
     ]
     const vedioData = [
-        {
-            ved: <iframe src="https://www.youtube.com/embed/Y8JIgOI0xJc" title="alaa mohammed business developer  at e commerce field and former sales manager realstate field" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
-        },
+        // {
+        //     ved: <iframe src="https://www.youtube.com/embed/Y8JIgOI0xJc" title="alaa mohammed business developer  at e commerce field and former sales manager realstate field" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+        // },
         {
             ved: <iframe src="https://www.youtube.com/embed/y5xT3Zw7F5U" title="Menna elsawy Digital marketing manager  Businessly agency" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
         },
