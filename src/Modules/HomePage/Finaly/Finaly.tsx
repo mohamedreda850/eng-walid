@@ -35,13 +35,13 @@ export default function Finaly() {
       </div>
 
       <div>
-        {questions.map((item, idx) => (<><div className='flex items-start'>
+        {questions.map((item, idx) => (<div key={idx}><div className='flex items-start'>
           <IoCaretBackCircleSharp className="text-4xl text-[#006EB6]" />
           <h2 className='text-xl md:text-3xl text-[#0077b6] font-semibold'>{item.question}</h2>
         </div>
           <h3 className='text-xl md:text-2xl ms-8 mb-4'>
             {item.answer}
-          </h3></>))}
+          </h3></div>))}
 
 
 

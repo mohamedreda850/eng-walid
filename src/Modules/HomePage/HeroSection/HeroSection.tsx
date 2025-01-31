@@ -9,7 +9,7 @@ export default function HeroSection() {
         <h2 className="text-4xl font-bold text-white text-center mb-5"> كن خبيراً في توليد مبيعات <br/> عالية الجودة</h2>
         <strong className="text-center text-[#006EB6] text-4xl font-bold mt-10">خلال 16 ساعه فقط
         </strong>
-        <div className="bg-white text-center py-3 px-10 rounded-full mt-20"> <h2 className="text-4xl font-bold text-[#006EB6]">المهندس. وليد الحنبلي</h2> </div>
+        <div className="bg-white text-center py-3 px-10 rounded-full mt-20"> <h2 className="text-4xl font-bold text-[#006EB6]">المهندس . وليد الحنبلي</h2> </div>
       </div>
       <div className="md:self-start lg:flex hidden lg:w-[50%] h-screen relative">
         <img src={egg} className="h-full absolute left-0 top-0  object-contain md:object-cover" alt="" />

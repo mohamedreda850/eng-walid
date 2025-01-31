@@ -147,9 +147,9 @@ export default function Titles() {
       <img src={stop} className="hidden md:block" alt="" />
       </div>
       <hr className="mb-6 mx-[7%] border-black border-2 "/>
-      <div className="flex items-center mb-6 bg-[#B8DFF4] w-fit text-xl lg:text-5xl py-3 px-6 rounded-md mx-10" >
-      <FaLongArrowAltLeft />
-        <h1> 27عنوان قادرين على تغيير مستواك المادي تماما </h1>
+      <div className="flex items-center mb-6 bg-[#B8DFF4] w-fit text-xl lg:text-4xl py-3 px-6 rounded-md mx-10" >
+      
+        <h1> 27 عنوان قادرين على تغيير مستواك المادي تماما </h1>
       </div>
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 px-10">
       {titels.map((topic, index) => (

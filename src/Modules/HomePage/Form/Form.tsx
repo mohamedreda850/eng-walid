@@ -2,10 +2,12 @@ import { FaFacebookF, FaWhatsapp } from "react-icons/fa"
 import { FiYoutube } from "react-icons/fi"
 import { useForm } from "react-hook-form"
 import emailjs from 'emailjs-com';
+import { toast } from "react-toastify";
+import { FaSpinner } from "react-icons/fa6";
 
 export default function Form() {
 
-    const {register , handleSubmit , reset , formState:{isSubmitting , errors}} = useForm({
+    const {register , handleSubmit , reset } = useForm({
         defaultValues:{
             name:"",
             email:"",
@@ -22,7 +24,8 @@ export default function Form() {
         }
         emailjs.send("service_6lhdnmj","template_63xnbhp",templateData,"zkFwdMfFSGpyI2UuB").then(()=>{
             console.log("success");
-            
+            toast.success("تم ارسال الرساله بنجاح");
+            reset();
         }).catch(()=>{
             console.log("error");
             
@@ -44,6 +47,7 @@ export default function Form() {
                         <label htmlFor="first_name" className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">رقم الموبايل</label>
                         <input type="text" {...register("phone" , {required:"الرجاء ادخال رقم الهاتف"})} id="first_name" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 shadow-lg" placeholder="01123456789" required />
                     </div>
+                    
                     <div className="mb-4">
                         <label htmlFor="first_name" className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">الرساله</label>
                         <textarea  id="first_name" {...register("message")} className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 shadow-lg"  required ></textarea>
