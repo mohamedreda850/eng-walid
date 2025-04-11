@@ -1,5 +1,4 @@
 import  { useEffect, useState } from 'react';
-import { Link } from 'react-router-dom';
 
 export default function Navbar() {
   const [isScrolled, setIsScrolled] = useState(false);
@@ -92,9 +91,10 @@ export default function Navbar() {
           </ul>
         </div>
         {/* Registration button */}
-        <button className="text-white me-auto ms-[50%] bg-[#006EB6] hover:bg-[#33688b] duration-500 px-5 py-2.5 rounded-full">
-          التسجيل
-        </button>
+      
+          <a className="text-white me-auto ms-[50%] bg-[#006EB6] hover:bg-[#33688b] duration-500 px-5 py-2.5 rounded-full" href='https://wa.me/201111137851?text=Hello%20I%20have%20a%20question' target='_blank'>التسجيل</a>
+          
+        
       </div>
     </nav>
   );

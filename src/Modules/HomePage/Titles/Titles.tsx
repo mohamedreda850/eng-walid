@@ -1,4 +1,3 @@
-import { FaLongArrowAltLeft } from "react-icons/fa"
 import stop from "./../../../assets/Images/Stop.png"
 export default function Titles() {
   const titels =[
@@ -142,7 +141,7 @@ export default function Titles() {
   return (
     <section className="py-7 container mx-auto">
       <div className="flex items-center justify-center mb-6">
-        <button className="text-xl font-semibold md:text-4xl bg-[#FFCC01] px-10 py-5 rounded-full m-3 hover:bg-[#eaca4a]" >الحق خصم ال early birds لاول <span className=" text-red-600">50 مشترك </span> , ولمده <span className="text-red-600">7 ايام </span> فقط
+        <button className="text-xl font-semibold md:text-4xl bg-[#FFCC01] px-10 py-5 rounded-full m-3 hover:bg-[#eaca4a]" > <a href='https://wa.me/201111137851?text=Hello%20I%20have%20a%20question' target='_blank'>الحق خصم ال early birds لاول </a> <span className=" text-red-600">50 مشترك </span> , ولمده <span className="text-red-600">7 ايام </span> فقط
       </button>
       <img src={stop} className="hidden md:block" alt="" />
       </div>

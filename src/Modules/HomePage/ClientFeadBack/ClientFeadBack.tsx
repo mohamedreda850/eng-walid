@@ -453,7 +453,7 @@ Business model
                 <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
                     {itemsToShow.map((post, idx) => (
                         <div className="bg-white rounded-md shadow-md hover:shadow-sm hover:scale-105 transition-all duration-300" key={idx}>
-                            <img src={post.img} className="h-48 w-full  rounded-t-md" alt="" />
+                            <img src={post.img} loading="lazy" className="h-48 w-full rounded-t-md" alt="" />
                             <div className="p-3">
                                 <h2 className="text-center font-bold">{post.client}</h2>
                                 <h3 className="inline">{post.post.split(' ').slice(0, 28).join(' ')} </h3>

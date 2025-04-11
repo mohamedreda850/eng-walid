@@ -3,8 +3,12 @@ import { FiYoutube } from "react-icons/fi"
 import { useForm } from "react-hook-form"
 import emailjs from 'emailjs-com';
 import { toast } from "react-toastify";
-import { FaSpinner } from "react-icons/fa6";
-
+interface FormData {
+    name: string;
+    message: string;
+    email: string;
+    phone: string;
+}
 export default function Form() {
 
     const {register , handleSubmit , reset } = useForm({
@@ -15,8 +19,8 @@ export default function Form() {
             message:""
         }
     })
-    const onSubmit = (data) => {
-        const templateData={
+    const onSubmit = (data:FormData) => {
+        const templateData ={
             from_name:data.name,
             message:data.message,
             email:data.email,
@@ -62,7 +66,7 @@ export default function Form() {
                 </div>
                 <div className="bg-[#f2f2f2] rounded-lg flex py-4 px-4 items-center text-3xl my-2">
                 <FaWhatsapp className="me-4 text-5xl"/>
-                    <a href="https://wa.me/201091811266?text=Hello%20I%20have%20a%20question" target="_blank" className="text-blue-500 underline">تابعنا علي واتساب</a>
+                    <a href="https://wa.me/201111137851?text=Hello%20I%20have%20a%20question" target="_blank" className="text-blue-500 underline">تابعنا علي واتساب</a>
                 </div>
                 <div className="bg-[#f2f2f2] rounded-lg flex py-4 px-4 items-center text-3xl my-2">
                 <FiYoutube className="me-4 text-5xl"/>

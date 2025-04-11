@@ -1,26 +1,49 @@
-import hand from "./../../../assets/Images/5res.png"
+
+import hand from "./../../../assets/Images/5res.png";
+
 export default function FiveResons() {
     const reasons = [
         { dis: "1.. أول حاجه مفيش حاجه اسمها كورس يغير حياتك ، أنت لازم تكون عاوز بجد ، ولازم تطبق عملي ." },
         { dis: "2.. الكورس فعلا شامل ، ومليان دهاليز وأساليب وسيكولوجيات ثقيله جدا جدا احدثت فارق في حياة شركات كثيره زي ماهتشوف الفيدباك بعد شويه ." },
         { dis: "3.. الكورس مش بيقولك تبيع ازاي ، الكورس بيكونلك mindset  تخليك قادر تبيع أي حاجه لأي حد لأنه بياخدك من الصفر لغاية أعلى نقطة في المبيعات " },
         { dis: "4.. المحاضر خبرته ( عمليه ) حقيقه ، وكل مفهوم بيتشرح بيقولك عليه تطبيق عملي علشان تعرف ،تطبق ده ازاي في حياتك العمليه زي ماهو طبقه في حياته، غير كده بمجرد الانتهاء من الكورس بتقدر تحصل على استشارة ( مجانية ) تماما مع المحاضر مدتها 3 ساعات برايفت ( جلسه خاصه ) بينكم أنتم الاثنين فقط علشان يساعدك في تطبيق المفاهيم دي كلها عملي على أرض الواقع ، أو عالبيزنس بتاعك أو على أي بيزنس تاني ." },
-        { dis: "5..مفيش أي كورس مبيعات في العالم كله جامع بين ال 27 عنوان اللي جامعهم الكورس ده " },
-    ]
+        { dis: "5.. مفيش أي كورس مبيعات في العالم كله جامع بين ال 27 عنوان اللي جامعهم الكورس ده " },
+    ];
+
    
-      
+
     return (
-        <section className="py-7 container mx-auto border-t-2 px-5">
-            <div className="flex items-center mb-6">
-                <img src={hand} alt="" className="hidden md:block"/>
-                <h1 className="text-2xl md:text-4xl md:ms-5 bg-[#B8DFF4] py-2 px-6 rounded-md ">5 أسباب بيقولولك ليه حياتك كامله ممكن تتغير بعد كورس المبيعات ب6 شهور </h1>
+        <section  className="py-7 container mx-auto border-t-2 px-5">
+            
+            <div
+             
+                className="flex items-center mb-6"
+            >
+                <img 
+                    src={hand} 
+                    alt="" 
+                   
+                    className="hidden md:block"
+                />
+                <h1 className="text-2xl md:text-4xl md:ms-5 bg-[#B8DFF4] py-2 px-6 rounded-md">
+                    5 أسباب بيقولولك ليه حياتك كامله ممكن تتغير بعد كورس المبيعات خلال ٦ شهور
+                </h1>
             </div>
-            <div>
-                {reasons.map((item , idx)=>(
-                    <p key={idx} className="text-xl md:text-3xl my-4">{item.dis}</p>
+
+           
+            <div
+                
+            >
+                {reasons.map((item, idx) => (
+                    <p
+                        key={idx}
+                        
+                        className="text-xl md:text-3xl my-4"
+                    >
+                        {item.dis}
+                    </p>
                 ))}
             </div>
-      
         </section>
-    )
+    );
 }
